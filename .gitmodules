@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "graphPAF"]
+	path = graphPAF
+	url = https://github.com/johnfergusonnuig/graphpaf
+	shallow = true
+	registered = true
