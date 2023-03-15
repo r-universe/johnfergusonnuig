@@ -1,5 +1,9 @@
 [
   {
+    "package": "corlink",
+    "oncran": true
+  },
+  {
     "package": "graphPAF",
     "oncran": true
   }

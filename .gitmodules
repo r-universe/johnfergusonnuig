@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "corlink"]
+	path = corlink
+	url = https://github.com/johnfergusonnuig/corlink
+	shallow = true
+	registered = true
 [submodule "graphPAF"]
 	path = graphPAF
 	url = https://github.com/johnfergusonnuig/graphpaf
