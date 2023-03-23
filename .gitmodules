@@ -3,9 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "averisk"]
+	path = averisk
+	url = https://github.com/cran/averisk
+	shallow = true
+	registered = true
 [submodule "corlink"]
 	path = corlink
 	url = https://github.com/johnfergusonnuig/corlink
+	shallow = true
+	registered = true
+[submodule "EBrank"]
+	path = EBrank
+	url = https://github.com/cran/EBrank
 	shallow = true
 	registered = true
 [submodule "graphPAF"]
