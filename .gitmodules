@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "EBrank"]
+	path = EBrank
+	url = https://github.com/cran/EBrank
 [submodule "averisk"]
 	path = averisk
 	url = https://github.com/cran/averisk
 [submodule "corlink"]
 	path = corlink
 	url = https://github.com/johnfergusonnuig/corlink
-[submodule "EBrank"]
-	path = EBrank
-	url = https://github.com/cran/EBrank
 [submodule "graphPAF"]
 	path = graphPAF
 	url = https://github.com/johnfergusonnuig/graphpaf
