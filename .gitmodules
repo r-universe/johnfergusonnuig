@@ -11,6 +11,3 @@
 [submodule "corlink"]
 	path = corlink
 	url = https://github.com/johnfergusonnuig/corlink
-[submodule "graphPAF"]
-	path = graphPAF
-	url = https://github.com/johnfergusonnuig/graphpaf
